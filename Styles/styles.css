@@ -1,0 +1,252 @@
+body {
+  background-color: black;
+}
+#nav-edit {
+  margin-top: 2%;
+  background-color: red;
+  height: 100px;
+}
+.nav-center {
+  margin-left: 25%;
+}
+.ul-center {
+  margin-right: 70%;
+}
+.nav-space {
+  margin-right: 50%;
+  font-size: 30px;
+}
+.img-container {
+  height: 400px;
+  width: 450px;
+  margin-top: 10%;
+  border-radius: 70%;
+  margin-left: 10%;
+  overflow: hidden;
+  position: absolute;
+}
+.img-container img {
+  transform: rotate(-8deg);
+  padding-left: 10px;
+  height: 100%;
+  width: 100%;
+}
+.text-cntainer {
+  margin-left: 950px;
+  margin-top: 275px;
+  height: 200px;
+  width: 500px;
+  border-radius: 10%;
+  background-color: grey;
+}
+.text-cntainer h1 {
+  padding-top: 5%;
+  color: white;
+  font-size: 28px;
+  text-align: center;
+}
+/*pg 2*/
+
+.title {
+  color: white;
+  margin-left: 50%;
+}
+.imgchess-container {
+  position: absolute;
+  height: 300px;
+  width: 400px;
+  margin-top: 80px;
+  margin-left: 200px;
+}
+.imgchess-container img {
+  height: 100%;
+  width: 100%;
+}
+.chess-text-container {
+  height: 300px;
+  width: 500px;
+  background-color: grey;
+  margin-left: 50%;
+  margin-top: 5%;
+  border-radius: 15%;
+}
+.chess-text-container h1 {
+  font-size: 25px;
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+}
+.favchessplayers {
+  margin-top: 2%;
+  margin-left: 50%;
+}
+.favchessplayers h1 {
+  color: white;
+}
+#Name
+{
+    color: white;
+}
+.accordion-button {
+  background-color: black;
+}
+.accordion-body {
+  background-color: black;
+  display: flex;
+}
+.accordion-body img {
+  height: 400px;
+}
+.Hikaru-Text {
+  margin-left: 300px;
+  height: 150px;
+}
+.Hikaru-Text h1 {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+.Hikaru-Text a img {
+    margin-top: 75px;
+    margin-left: 85px;
+    height: 100px;
+    width: 100px;
+}
+
+.magnus-Text{
+    margin-left: 300px;
+    height: 150px;
+}
+.magnus-Text h1{
+    font-size: 20px;
+  text-align: center;
+  color: white;
+}
+.magnus-Text a img{
+    margin-top: 75px;
+    margin-left: 85px;
+    height: 100px;
+    width: 100px;
+}
+.card{
+    background-color: rgb(34, 34, 34);
+    width: 1000px;
+    margin-left: 200px;
+}
+.row{
+    justify-content: space-around;
+    
+}
+.moto-img-container{
+    width: 400px;
+    height: 200px;
+    justify-items: center;
+    margin-left: 50px;
+}
+.moto-img-container img{
+ padding-left: 45%;
+ width: 100%;
+ height: 100%;
+}
+.card-body{
+    padding-right: 100px;
+    width: 400px;
+}
+.card-body h5{
+   font-size: 20px;
+   color: orange;
+   text-align: center;
+}
+.card-body p{
+    color: orange;
+    font-size: 15px;
+    text-align: center;
+}
+.stretch-test{
+    width: 300px;
+    margin-left: 100px;
+}
+.img-container-3{
+    height: 400px;
+    width: 300px;
+    margin-left: 14%;
+    position: absolute;
+}
+.img-container-3 img{
+    height: 100%;
+    width: 100%;
+}
+.text-container3{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(45, 44, 44);
+    margin-left: 50%;
+    margin-top:10%;
+    border-radius: 10%;
+}
+.text-container3 h1{
+    color: orange;
+    padding-top: 10%;
+    text-align: center;
+}
+.photograghy-container{
+    height: 100px;
+    width: 500px;
+    margin-top: 100px;
+    margin-left: 30%;
+}
+.photograghy-container h1{
+    color: white;
+    text-align: center;
+}
+.card-container{
+    margin-left: 20%;
+    margin-top: 4%;
+  
+}
+.card-text-container{
+    padding-left: 100px;
+}
+.card-text-container h5{
+    color: white;
+    padding-left: 100px;
+}
+.card-text{
+    width: 300px;
+}
+.card-text-container p{
+    color: white;
+}
+.youtube-Container{
+    width: 800px;
+    height: 500px;
+    background-color: grey;
+    margin-left: 20%;
+}
+.h1-title-Text{
+    margin-top: 2%;
+    margin-left: 40%;
+}
+.h1-title-Text h1{
+    color: white;
+}
+.container-acc{
+    width: 800px;
+    margin-left: 35%;
+    
+}
+.accord-container h2{
+    color: white;
+    font-size: 20px;
+    padding-top: 100px;
+    padding-left: 25px;
+}
+.accordion-body img{
+    height: 280px;
+    width: 320px;
+}
+.accord2-container{
+    margin-left: 35%;
+    margin-top: 5%;
+    width: 800px;
+}
